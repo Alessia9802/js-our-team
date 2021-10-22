@@ -40,6 +40,11 @@ const team = [
     Image: "https://picsum.photos/id/1/200/300",
   },
   {
+    Name: "Stefano",
+    role: "student",
+    Image: "https://picsum.photos/id/1/200/300",
+  },
+  {
     Name: "Valentina",
     role: "student",
     Image: "https://picsum.photos/id/1/200/300",
